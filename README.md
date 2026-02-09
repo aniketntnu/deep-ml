@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**9** solved · 9 problems · 0 labs · 0 math
+**10** solved · 10 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -18,6 +18,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Linear Regression Using Normal Equation](https://www.deep-ml.com/problems/14) | easy | 2026-01-15 | [solution](problems/0014-linear-regression-using-normal-equation) |
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2026-01-15 | [solution](problems/0001-matrix-vector-dot-product) |
 | [Random Shuffle of Dataset](https://www.deep-ml.com/problems/29) | easy | 2026-01-30 | [solution](problems/0029-random-shuffle-of-dataset) |
+| [Reshape Matrix](https://www.deep-ml.com/problems/3) | easy | 2026-02-09 | [solution](problems/0003-reshape-matrix) |
 | [Single Neuron](https://www.deep-ml.com/problems/24) | easy | 2026-01-24 | [solution](problems/0024-single-neuron) |
 | [Softmax Activation Function Implementation ](https://www.deep-ml.com/problems/23) | easy | 2026-01-18 | [solution](problems/0023-softmax-activation-function-implementation) |
 | [Train Logistic Regression with Gradient Descent](https://www.deep-ml.com/problems/106) | hard | 2026-01-26 | [solution](problems/0106-train-logistic-regression-with-gradient-descent) |
