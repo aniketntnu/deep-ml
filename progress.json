@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T04:14:44.286Z",
+  "generated_at": "2026-11-14T04:14:46.065Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -130,6 +130,58 @@
       "last_pushed_at": "2026-02-09T04:56:02.180Z",
       "language": "python",
       "lines": 39
+    },
+    "problem:2": {
+      "kind": "problem",
+      "id": "2",
+      "title": "Transpose of a Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/2",
+      "path": "problems/0002-transpose-of-a-matrix",
+      "first_solved_at": "2026-02-11T04:45:49.971Z",
+      "last_pushed_at": "2026-02-11T04:45:49.971Z",
+      "language": "python",
+      "lines": 44
+    },
+    "problem:81": {
+      "kind": "problem",
+      "id": "81",
+      "title": "Poisson Distribution Probability Calculator",
+      "difficulty": "easy",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/81",
+      "path": "problems/0081-poisson-distribution-probability-calculator",
+      "first_solved_at": "2026-02-11T04:55:59.333Z",
+      "last_pushed_at": "2026-02-11T04:55:59.333Z",
+      "language": "python",
+      "lines": 12
+    },
+    "problem:79": {
+      "kind": "problem",
+      "id": "79",
+      "title": "Binomial Distribution Probability",
+      "difficulty": "medium",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/79",
+      "path": "problems/0079-binomial-distribution-probability",
+      "first_solved_at": "2026-02-11T04:59:14.188Z",
+      "last_pushed_at": "2026-02-11T04:59:14.188Z",
+      "language": "python",
+      "lines": 20
+    },
+    "problem:216": {
+      "kind": "problem",
+      "id": "216",
+      "title": "Thanksgiving Feast Predictor: Softmax for Dish Selection",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/216",
+      "path": "problems/0216-thanksgiving-feast-predictor-softmax-for-dish-selection",
+      "first_solved_at": "2026-02-11T05:09:32.376Z",
+      "last_pushed_at": "2026-02-11T05:09:32.376Z",
+      "language": "python",
+      "lines": 22
     }
   }
 }
