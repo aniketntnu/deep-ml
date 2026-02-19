@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T04:14:47.979Z",
+  "generated_at": "2026-11-14T04:14:49.693Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -208,6 +208,32 @@
       "last_pushed_at": "2026-02-14T07:04:30.343Z",
       "language": "python",
       "lines": 22
+    },
+    "problem:384": {
+      "kind": "problem",
+      "id": "384",
+      "title": "Contrastive Loss (InfoNCE / SimCLR-style)",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/384",
+      "path": "problems/0384-contrastive-loss-infonce-simclr-style",
+      "first_solved_at": "2026-02-19T03:40:45.262Z",
+      "last_pushed_at": "2026-02-19T03:40:45.262Z",
+      "language": "python",
+      "lines": 27
+    },
+    "problem:42": {
+      "kind": "problem",
+      "id": "42",
+      "title": "Implement ReLU Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/42",
+      "path": "problems/0042-implement-relu-activation-function",
+      "first_solved_at": "2026-02-19T16:30:52.201Z",
+      "last_pushed_at": "2026-02-19T16:30:52.201Z",
+      "language": "python",
+      "lines": 4
     }
   }
 }
