@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T04:14:49.693Z",
+  "generated_at": "2026-11-14T04:14:51.710Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -234,6 +234,71 @@
       "last_pushed_at": "2026-02-19T16:30:52.201Z",
       "language": "python",
       "lines": 4
+    },
+    "problem:41": {
+      "kind": "problem",
+      "id": "41",
+      "title": "Simple Convolutional 2D Layer",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/41",
+      "path": "problems/0041-simple-convolutional-2d-layer",
+      "first_solved_at": "2026-04-04T06:06:54.036Z",
+      "last_pushed_at": "2026-04-04T06:06:54.036Z",
+      "language": "python",
+      "lines": 41
+    },
+    "problem:115": {
+      "kind": "problem",
+      "id": "115",
+      "title": "Implement Batch Normalization for BCHW Input",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/115",
+      "path": "problems/0115-implement-batch-normalization-for-bchw-input",
+      "first_solved_at": "2026-04-04T10:49:43.000Z",
+      "last_pushed_at": "2026-04-04T10:49:43.000Z",
+      "language": "python",
+      "lines": 44
+    },
+    "problem:109": {
+      "kind": "problem",
+      "id": "109",
+      "title": "Implement Layer Normalization for Sequence Data",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/109",
+      "path": "problems/0109-implement-layer-normalization-for-sequence-data",
+      "first_solved_at": "2026-04-04T11:40:35.608Z",
+      "last_pushed_at": "2026-04-04T11:40:35.608Z",
+      "language": "python",
+      "lines": 17
+    },
+    "problem:22": {
+      "kind": "problem",
+      "id": "22",
+      "title": "Sigmoid Activation Function Understanding",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/22",
+      "path": "problems/0022-sigmoid-activation-function-understanding",
+      "first_solved_at": "2026-04-04T11:43:24.369Z",
+      "last_pushed_at": "2026-04-04T11:43:24.369Z",
+      "language": "python",
+      "lines": 7
+    },
+    "problem:134": {
+      "kind": "problem",
+      "id": "134",
+      "title": "Compute Multi-class Cross-Entropy Loss",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/134",
+      "path": "problems/0134-compute-multi-class-cross-entropy-loss",
+      "first_solved_at": "2026-04-04T12:45:48.252Z",
+      "last_pushed_at": "2026-04-04T12:45:48.252Z",
+      "language": "python",
+      "lines": 14
     }
   }
 }
