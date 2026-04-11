@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T04:14:53.946Z",
+  "generated_at": "2026-11-14T04:14:55.710Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -312,6 +312,58 @@
       "last_pushed_at": "2026-04-05T06:39:43.895Z",
       "language": "python",
       "lines": 34
+    },
+    "problem:107": {
+      "kind": "problem",
+      "id": "107",
+      "title": "Implement Masked Self-Attention",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/107",
+      "path": "problems/0107-implement-masked-self-attention",
+      "first_solved_at": "2026-04-11T09:54:49.847Z",
+      "last_pushed_at": "2026-04-11T09:54:49.847Z",
+      "language": "python",
+      "lines": 32
+    },
+    "problem:6": {
+      "kind": "problem",
+      "id": "6",
+      "title": "Calculate Eigenvalues of a Matrix",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/6",
+      "path": "problems/0006-calculate-eigenvalues-of-a-matrix",
+      "first_solved_at": "2026-04-11T10:12:21.598Z",
+      "last_pushed_at": "2026-04-11T10:12:21.598Z",
+      "language": "python",
+      "lines": 26
+    },
+    "problem:76": {
+      "kind": "problem",
+      "id": "76",
+      "title": "Calculate Cosine Similarity Between Vectors",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/76",
+      "path": "problems/0076-calculate-cosine-similarity-between-vectors",
+      "first_solved_at": "2026-04-11T10:16:01.895Z",
+      "last_pushed_at": "2026-04-11T10:16:01.895Z",
+      "language": "python",
+      "lines": 14
+    },
+    "problem:47": {
+      "kind": "problem",
+      "id": "47",
+      "title": "Implement Gradient Descent Variants with MSE Loss",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/47",
+      "path": "problems/0047-implement-gradient-descent-variants-with-mse-loss",
+      "first_solved_at": "2026-04-11T10:26:36.684Z",
+      "last_pushed_at": "2026-04-11T10:26:36.684Z",
+      "language": "python",
+      "lines": 67
     }
   }
 }

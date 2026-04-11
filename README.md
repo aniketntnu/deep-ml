@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**24** solved · 24 problems · 0 labs · 0 math
+**28** solved · 28 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -12,6 +12,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
+| [Calculate Cosine Similarity Between Vectors](https://www.deep-ml.com/problems/76) | easy | 2026-04-11 | [solution](problems/0076-calculate-cosine-similarity-between-vectors) |
 | [Calculate Mean by Row or Column](https://www.deep-ml.com/problems/4) | easy | 2026-01-15 | [solution](problems/0004-calculate-mean-by-row-or-column) |
 | [Compute Multi-class Cross-Entropy Loss](https://www.deep-ml.com/problems/134) | easy | 2026-04-04 | [solution](problems/0134-compute-multi-class-cross-entropy-loss) |
 | [Implement ReLU Activation Function](https://www.deep-ml.com/problems/42) | easy | 2026-02-19 | [solution](problems/0042-implement-relu-activation-function) |
@@ -28,9 +29,12 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Thanksgiving Feast Predictor: Softmax for Dish Selection](https://www.deep-ml.com/problems/216) | easy | 2026-02-11 | [solution](problems/0216-thanksgiving-feast-predictor-softmax-for-dish-selection) |
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2026-02-11 | [solution](problems/0002-transpose-of-a-matrix) |
 | [Binomial Distribution Probability](https://www.deep-ml.com/problems/79) | medium | 2026-02-11 | [solution](problems/0079-binomial-distribution-probability) |
+| [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2026-04-11 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
 | [Contrastive Loss (InfoNCE / SimCLR-style)](https://www.deep-ml.com/problems/384) | medium | 2026-02-19 | [solution](problems/0384-contrastive-loss-infonce-simclr-style) |
 | [Implement Batch Normalization for BCHW Input](https://www.deep-ml.com/problems/115) | medium | 2026-04-04 | [solution](problems/0115-implement-batch-normalization-for-bchw-input) |
+| [Implement Gradient Descent Variants with MSE Loss](https://www.deep-ml.com/problems/47) | medium | 2026-04-11 | [solution](problems/0047-implement-gradient-descent-variants-with-mse-loss) |
 | [Implement Layer Normalization for Sequence Data](https://www.deep-ml.com/problems/109) | medium | 2026-04-04 | [solution](problems/0109-implement-layer-normalization-for-sequence-data) |
+| [Implement Masked Self-Attention](https://www.deep-ml.com/problems/107) | medium | 2026-04-11 | [solution](problems/0107-implement-masked-self-attention) |
 | [Implement Self-Attention Mechanism](https://www.deep-ml.com/problems/53) | medium | 2026-04-05 | [solution](problems/0053-implement-self-attention-mechanism) |
 | [K-Means Clustering](https://www.deep-ml.com/problems/17) | medium | 2026-02-14 | [solution](problems/0017-k-means-clustering) |
 | [Simple Convolutional 2D Layer](https://www.deep-ml.com/problems/41) | medium | 2026-04-04 | [solution](problems/0041-simple-convolutional-2d-layer) |
