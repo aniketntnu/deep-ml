@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T04:14:57.660Z",
+  "generated_at": "2026-11-14T04:14:59.743Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -377,6 +377,32 @@
       "last_pushed_at": "2026-04-25T17:15:39.017Z",
       "language": "python",
       "lines": 32
+    },
+    "problem:771": {
+      "kind": "problem",
+      "id": "771",
+      "title": "Token Distribution KL Divergence Filter",
+      "difficulty": "easy",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/771",
+      "path": "problems/0771-token-distribution-kl-divergence-filter",
+      "first_solved_at": "2026-05-01T14:52:54.524Z",
+      "last_pushed_at": "2026-05-01T14:52:54.524Z",
+      "language": "python",
+      "lines": 52
+    },
+    "problem:237": {
+      "kind": "problem",
+      "id": "237",
+      "title": "Convert RGB Image to Grayscale",
+      "difficulty": "easy",
+      "category": "Computer Vision",
+      "url": "https://www.deep-ml.com/problems/237",
+      "path": "problems/0237-convert-rgb-image-to-grayscale",
+      "first_solved_at": "2026-05-01T15:03:56.119Z",
+      "last_pushed_at": "2026-05-01T15:03:56.119Z",
+      "language": "python",
+      "lines": 40
     }
   }
 }
