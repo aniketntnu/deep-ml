@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T04:14:59.743Z",
+  "generated_at": "2026-11-14T04:15:01.478Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -403,6 +403,45 @@
       "last_pushed_at": "2026-05-01T15:03:56.119Z",
       "language": "python",
       "lines": 40
+    },
+    "problem:70": {
+      "kind": "problem",
+      "id": "70",
+      "title": "Calculate Image Brightness",
+      "difficulty": "easy",
+      "category": "Computer Vision",
+      "url": "https://www.deep-ml.com/problems/70",
+      "path": "problems/0070-calculate-image-brightness",
+      "first_solved_at": "2026-05-02T11:00:01.647Z",
+      "last_pushed_at": "2026-05-02T11:00:01.647Z",
+      "language": "python",
+      "lines": 28
+    },
+    "problem:113": {
+      "kind": "problem",
+      "id": "113",
+      "title": "Implement a Simple Residual Block with Shortcut Connection",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/113",
+      "path": "problems/0113-implement-a-simple-residual-block-with-shortcut-connection",
+      "first_solved_at": "2026-05-02T11:05:06.798Z",
+      "last_pushed_at": "2026-05-02T11:05:06.798Z",
+      "language": "python",
+      "lines": 13
+    },
+    "problem:87": {
+      "kind": "problem",
+      "id": "87",
+      "title": "Adam Optimizer",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/87",
+      "path": "problems/0087-adam-optimizer",
+      "first_solved_at": "2026-05-02T11:58:22.860Z",
+      "last_pushed_at": "2026-05-02T11:58:22.860Z",
+      "language": "python",
+      "lines": 32
     }
   }
 }
