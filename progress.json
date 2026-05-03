@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T04:15:01.478Z",
+  "generated_at": "2026-11-14T04:15:03.396Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -442,6 +442,45 @@
       "last_pushed_at": "2026-05-02T11:58:22.860Z",
       "language": "python",
       "lines": 32
+    },
+    "problem:19": {
+      "kind": "problem",
+      "id": "19",
+      "title": "Principal Component Analysis (PCA) Implementation",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/19",
+      "path": "problems/0019-principal-component-analysis-pca-implementation",
+      "first_solved_at": "2026-05-03T04:10:32.795Z",
+      "last_pushed_at": "2026-05-03T04:10:32.795Z",
+      "language": "python",
+      "lines": 46
+    },
+    "problem:45": {
+      "kind": "problem",
+      "id": "45",
+      "title": "Linear Kernel Function",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/45",
+      "path": "problems/0045-linear-kernel-function",
+      "first_solved_at": "2026-05-03T04:15:11.454Z",
+      "last_pushed_at": "2026-05-03T04:15:11.454Z",
+      "language": "python",
+      "lines": 6
+    },
+    "problem:46": {
+      "kind": "problem",
+      "id": "46",
+      "title": "Implement Precision Metric",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/46",
+      "path": "problems/0046-implement-precision-metric",
+      "first_solved_at": "2026-05-03T04:33:30.216Z",
+      "last_pushed_at": "2026-05-03T04:33:30.216Z",
+      "language": "python",
+      "lines": 20
     }
   }
 }
