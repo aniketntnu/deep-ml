@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**37** solved · 37 problems · 0 labs · 0 math
+**38** solved · 38 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -42,6 +42,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Batch Normalization for BCHW Input](https://www.deep-ml.com/problems/115) | medium | 2026-04-04 | [solution](problems/0115-implement-batch-normalization-for-bchw-input) |
 | [Implement Gradient Descent Variants with MSE Loss](https://www.deep-ml.com/problems/47) | medium | 2026-04-11 | [solution](problems/0047-implement-gradient-descent-variants-with-mse-loss) |
 | [Implement Layer Normalization for Sequence Data](https://www.deep-ml.com/problems/109) | medium | 2026-04-04 | [solution](problems/0109-implement-layer-normalization-for-sequence-data) |
+| [Implement Long Short-Term Memory (LSTM) Network](https://www.deep-ml.com/problems/59) | medium | 2026-08-02 | [solution](problems/0059-implement-long-short-term-memory-lstm-network) |
 | [Implement Masked Self-Attention](https://www.deep-ml.com/problems/107) | medium | 2026-04-11 | [solution](problems/0107-implement-masked-self-attention) |
 | [Implement Self-Attention Mechanism](https://www.deep-ml.com/problems/53) | medium | 2026-04-05 | [solution](problems/0053-implement-self-attention-mechanism) |
 | [K-Means Clustering](https://www.deep-ml.com/problems/17) | medium | 2026-02-14 | [solution](problems/0017-k-means-clustering) |
