@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T04:15:05.335Z",
+  "generated_at": "2026-11-14T04:15:07.577Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -494,6 +494,32 @@
       "last_pushed_at": "2026-08-02T06:11:30.038Z",
       "language": "python",
       "lines": 169
+    },
+    "problem:43": {
+      "kind": "problem",
+      "id": "43",
+      "title": "Implement Ridge Regression Loss Function",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/43",
+      "path": "problems/0043-implement-ridge-regression-loss-function",
+      "first_solved_at": "2026-08-07T03:52:04.228Z",
+      "last_pushed_at": "2026-08-07T03:52:04.228Z",
+      "language": "python",
+      "lines": 36
+    },
+    "problem:44": {
+      "kind": "problem",
+      "id": "44",
+      "title": "Leaky ReLU Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/44",
+      "path": "problems/0044-leaky-relu-activation-function",
+      "first_solved_at": "2026-08-07T04:00:57.344Z",
+      "last_pushed_at": "2026-08-07T04:00:57.344Z",
+      "language": "python",
+      "lines": 9
     }
   }
 }
