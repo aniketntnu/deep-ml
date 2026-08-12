@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T04:15:07.577Z",
+  "generated_at": "2026-11-14T04:15:09.481Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -520,6 +520,32 @@
       "last_pushed_at": "2026-08-07T04:00:57.344Z",
       "language": "python",
       "lines": 9
+    },
+    "problem:39": {
+      "kind": "problem",
+      "id": "39",
+      "title": "Implementation of Log Softmax Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/39",
+      "path": "problems/0039-implementation-of-log-softmax-function",
+      "first_solved_at": "2026-08-12T03:20:36.595Z",
+      "last_pushed_at": "2026-08-12T03:20:36.595Z",
+      "language": "python",
+      "lines": 21
+    },
+    "problem:54": {
+      "kind": "problem",
+      "id": "54",
+      "title": "Implementing a Simple RNN",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/54",
+      "path": "problems/0054-implementing-a-simple-rnn",
+      "first_solved_at": "2026-08-12T03:30:59.055Z",
+      "last_pushed_at": "2026-08-12T03:30:59.055Z",
+      "language": "python",
+      "lines": 49
     }
   }
 }
