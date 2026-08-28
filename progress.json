@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T04:15:09.481Z",
+  "generated_at": "2026-11-14T04:15:11.328Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -546,6 +546,45 @@
       "last_pushed_at": "2026-08-12T03:30:59.055Z",
       "language": "python",
       "lines": 49
+    },
+    "problem:204": {
+      "kind": "problem",
+      "id": "204",
+      "title": "Mutual Information",
+      "difficulty": "medium",
+      "category": "Information Theory",
+      "url": "https://www.deep-ml.com/problems/204",
+      "path": "problems/0204-mutual-information",
+      "first_solved_at": "2026-08-28T05:19:19.537Z",
+      "last_pushed_at": "2026-08-28T05:19:19.537Z",
+      "language": "python",
+      "lines": 95
+    },
+    "problem:316": {
+      "kind": "problem",
+      "id": "316",
+      "title": "MMLU Log-Probability Scoring",
+      "difficulty": "medium",
+      "category": "LLM",
+      "url": "https://www.deep-ml.com/problems/316",
+      "path": "problems/0316-mmlu-log-probability-scoring",
+      "first_solved_at": "2026-08-28T09:32:42.511Z",
+      "last_pushed_at": "2026-08-28T09:32:42.511Z",
+      "language": "python",
+      "lines": 35
+    },
+    "problem:382": {
+      "kind": "problem",
+      "id": "382",
+      "title": "Direct Preference Optimization (DPO) Loss",
+      "difficulty": "medium",
+      "category": "LLM",
+      "url": "https://www.deep-ml.com/problems/382",
+      "path": "problems/0382-direct-preference-optimization-dpo-loss",
+      "first_solved_at": "2026-08-28T16:55:07.254Z",
+      "last_pushed_at": "2026-08-28T16:55:07.254Z",
+      "language": "python",
+      "lines": 130
     }
   }
 }
