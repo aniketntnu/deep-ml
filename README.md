@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**49** solved · 49 problems · 0 labs · 0 math
+**51** solved · 51 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -48,7 +48,9 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Direct Preference Optimization (DPO) Loss](https://www.deep-ml.com/problems/382) | medium | 2026-08-28 | [solution](problems/0382-direct-preference-optimization-dpo-loss) |
 | [Implement Adam Optimization Algorithm](https://www.deep-ml.com/problems/49) | medium | 2026-04-25 | [solution](problems/0049-implement-adam-optimization-algorithm) |
 | [Implement Batch Normalization for BCHW Input](https://www.deep-ml.com/problems/115) | medium | 2026-04-04 | [solution](problems/0115-implement-batch-normalization-for-bchw-input) |
+| [Implement BatchNorm2d from Scratch (training mode)](https://www.deep-ml.com/problems/902) | medium | 2026-10-22 | [solution](problems/0902-implement-batchnorm2d-from-scratch-training-mode) |
 | [Implement Gradient Descent Variants with MSE Loss](https://www.deep-ml.com/problems/47) | medium | 2026-04-11 | [solution](problems/0047-implement-gradient-descent-variants-with-mse-loss) |
+| [Implement Group Normalization](https://www.deep-ml.com/problems/126) | medium | 2026-10-22 | [solution](problems/0126-implement-group-normalization) |
 | [Implement Layer Normalization for Sequence Data](https://www.deep-ml.com/problems/109) | medium | 2026-04-04 | [solution](problems/0109-implement-layer-normalization-for-sequence-data) |
 | [Implement Long Short-Term Memory (LSTM) Network](https://www.deep-ml.com/problems/59) | medium | 2026-08-02 | [solution](problems/0059-implement-long-short-term-memory-lstm-network) |
 | [Implement Masked Self-Attention](https://www.deep-ml.com/problems/107) | medium | 2026-04-11 | [solution](problems/0107-implement-masked-self-attention) |
