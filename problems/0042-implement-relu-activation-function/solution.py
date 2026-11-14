@@ -1,3 +1,4 @@
+import numpy as np
 def relu(z: float) -> float:
-	# Your code here
-	return 0.0 if z<=0 else z
+    # Your code here
+    return np.maximum(0,z)
