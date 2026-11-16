@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**52** solved · 52 problems · 0 labs · 0 math
+**53** solved · 53 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -62,6 +62,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Principal Component Analysis (PCA) Implementation](https://www.deep-ml.com/problems/19) | medium | 2026-05-03 | [solution](problems/0019-principal-component-analysis-pca-implementation) |
 | [Simple Convolutional 2D Layer](https://www.deep-ml.com/problems/41) | medium | 2026-04-04 | [solution](problems/0041-simple-convolutional-2d-layer) |
 | [Single Neuron with Backpropagation](https://www.deep-ml.com/problems/25) | medium | 2026-02-14 | [solution](problems/0025-single-neuron-with-backpropagation) |
+| [Soft-NMS: Decay Overlapping Detections Instead of Deleting Them](https://www.deep-ml.com/problems/1965) | medium | 2026-11-16 | [solution](problems/1965-soft-nms-decay-overlapping-detections-instead-of-deleting-them) |
 | [IoU and Mean Average Precision for Object Detection](https://www.deep-ml.com/problems/1395) | hard | 2026-11-16 | [solution](problems/1395-iou-and-mean-average-precision-for-object-detection) |
 | [Train Logistic Regression with Gradient Descent](https://www.deep-ml.com/problems/106) | hard | 2026-01-26 | [solution](problems/0106-train-logistic-regression-with-gradient-descent) |
 
