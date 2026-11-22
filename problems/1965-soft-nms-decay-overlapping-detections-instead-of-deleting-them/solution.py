@@ -35,3 +35,91 @@ def soft_nms(boxes, scores, method="gaussian", iou_threshold=0.3, sigma=0.5, sco
         # drop boxes whose score fell below the threshold
         remaining = [i for i in remaining if scores[i] >= score_threshold]
     return keep
+
+
+"""
+
+import numpy as np
+# NumPy is used for array and IoU calculations.
+
+
+def nms(boxes, scores, iou_threshold=0.5):
+    # Perform hard Non-Maximum Suppression.
+
+    boxes = np.asarray(boxes, dtype=float)
+    # Convert the boxes into a NumPy array.
+
+    scores = np.asarray(scores, dtype=float)
+    # Convert the confidence scores into a NumPy array.
+
+    order = np.argsort(scores)[::-1]
+    # Get box indices sorted from highest score to lowest.
+
+    keep = []
+    # Store the indices of boxes that survive NMS.
+
+    while len(order) > 0:
+        # Continue while there are boxes left.
+
+        i = order[0]
+        # Select the box with the highest score.
+
+        keep.append(i)
+        # Keep the selected box.
+
+        if len(order) == 1:
+            break
+        # Stop if there are no other boxes to compare.
+
+        remaining = order[1:]
+        # Get all boxes that are still remaining.
+
+        x1 = np.maximum(boxes[i, 0], boxes[remaining, 0])
+        # Find the left side of the intersection.
+
+        y1 = np.maximum(boxes[i, 1], boxes[remaining, 1])
+        # Find the top side of the intersection.
+
+        x2 = np.minimum(boxes[i, 2], boxes[remaining, 2])
+        # Find the right side of the intersection.
+
+        y2 = np.minimum(boxes[i, 3], boxes[remaining, 3])
+        # Find the bottom side of the intersection.
+
+        w = np.maximum(0, x2 - x1)
+        # Calculate intersection width.
+
+        h = np.maximum(0, y2 - y1)
+        # Calculate intersection height.
+
+        intersection = w * h
+        # Calculate intersection area.
+
+        area_i = (
+            boxes[i, 2] - boxes[i, 0]
+        ) * (
+            boxes[i, 3] - boxes[i, 1]
+        )
+        # Calculate the area of the selected box.
+
+        area_remaining = (
+            boxes[remaining, 2] - boxes[remaining, 0]
+        ) * (
+            boxes[remaining, 3] - boxes[remaining, 1]
+        )
+        # Calculate the areas of the remaining boxes.
+
+        union = area_i + area_remaining - intersection
+        # Calculate the union area.
+
+        iou = intersection / union
+        # Calculate IoU between the selected box and remaining boxes.
+
+        order = remaining[iou <= iou_threshold]
+        # Remove boxes whose IoU is greater than the threshold.
+
+    return keep
+    # Return the indices of boxes that survived.
+
+"""
+
