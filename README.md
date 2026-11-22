@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**53** solved · 53 problems · 0 labs · 0 math
+**54** solved · 54 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -42,6 +42,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Token Distribution KL Divergence Filter](https://www.deep-ml.com/problems/771) | easy | 2026-05-01 | [solution](problems/0771-token-distribution-kl-divergence-filter) |
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2026-02-11 | [solution](problems/0002-transpose-of-a-matrix) |
 | [Adam Optimizer](https://www.deep-ml.com/problems/87) | medium | 2026-05-02 | [solution](problems/0087-adam-optimizer) |
+| [Anchor Matching via IoU Assignment](https://www.deep-ml.com/problems/1253) | medium | 2026-11-22 | [solution](problems/1253-anchor-matching-via-iou-assignment) |
 | [Binomial Distribution Probability](https://www.deep-ml.com/problems/79) | medium | 2026-02-11 | [solution](problems/0079-binomial-distribution-probability) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2026-04-11 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
 | [Contrastive Loss (InfoNCE / SimCLR-style)](https://www.deep-ml.com/problems/384) | medium | 2026-02-19 | [solution](problems/0384-contrastive-loss-infonce-simclr-style) |
