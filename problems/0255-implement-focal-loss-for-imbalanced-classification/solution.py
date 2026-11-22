@@ -22,7 +22,17 @@ def focal_loss(y_true, y_pred, gamma=2.0, alpha=None):
     y_pred = np.asarray(y_pred, dtype=float)
 
     # Get the predicted probability of the true class
-    pt = y_pred[np.arange(len(y_true)), y_true]
+    #pt = y_pred[np.arange(len(y_true)), y_true]
+
+    pt = []
+
+    for i in range(len(y_true)):
+        true_class = y_true[i]
+        probability = y_pred[i][true_class]
+        pt.append(probability)
+
+    pt = np.array(pt)
+
 
     # Clip probabilities to avoid log(0)
     pt = np.clip(pt, 1e-8, 1.0)
